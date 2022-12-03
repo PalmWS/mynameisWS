@@ -1,0 +1,2 @@
+# mynameisWS
+python package: mynameisWS
